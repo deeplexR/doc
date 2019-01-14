@@ -1,0 +1,22 @@
+Package: deeplexdoc
+Title: Documentation of DeepLEX
+Version: 1.0.0
+Authors@R: 
+    person(given = "Yongfu", 
+           family = "Liao",
+           email = "liao961120@gmail.com", 
+           role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-1814-2993"))
+URL: https://deeplexR.github.io/doc, https://github.com/deeplexR/doc
+BugReports: https://github.com/deeplexR/doc/issues
+Description: Documenting DeepLEX with Bookdown on GitHub
+Depends: R (>= 3.4.0)
+License: GPL-3 + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Remotes: RLesur/klippy@v0.0.0.9400, 
+    deeplexR/lexicoR
+VignetteBuilder: knitr
+Imports: bookdown,
+    tidyverse
+RoxygenNote: 6.1.0
