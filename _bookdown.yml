@@ -17,4 +17,4 @@ language:
     remark: '注釋' #'Remark. '
     solution: 'Solution. '
   ui:
-    chapter_name: ['第 ', ' 章']  # "Chapter "
+    chapter_name: '變項 ' #['第 ', ' 章']  # "Chapter "

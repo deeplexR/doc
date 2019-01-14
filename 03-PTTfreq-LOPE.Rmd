@@ -1,4 +1,0 @@
-# (PART) 變項說明 {-}
-# PTTfreq
-
-We describe our methods in this chapter.
